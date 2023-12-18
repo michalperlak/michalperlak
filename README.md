@@ -9,7 +9,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=michalperlak.michalperlak)
 ![](https://komarev.com/ghpvc/?username=born69confused&color=blueviolet&style=flat)
-![](https://tokei.rs/b1/github/born69confused/LeetCode_Solutions?category=code)
 ![](https://tokei.rs/b1/github/born69confused/LeetCode_Solutions?category=files)
 
 
